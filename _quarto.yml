@@ -2,8 +2,8 @@ project:
   type: website
 
 execute:
-  freeze: true
-  
+  freeze: auto
+
 website:
   title: "IPBES_TCA_Fig_SPM.11_dynamic"
   navbar:
