@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "map_mapview.html",
     "href": "map_mapview.html",
     "title": "Leaflet Map with EJ Data",
@@ -26,5 +19,12 @@
     "title": "IPBES TCA Figure SPM.11 Dynamic",
     "section": "",
     "text": "Two maps using two packages\n\nleaflet map\nmapview map"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
