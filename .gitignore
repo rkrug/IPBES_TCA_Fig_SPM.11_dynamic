@@ -1,2 +1,6 @@
 .DS_Store
-map_leaflet.qmd
+
+/.quarto/
+
+# The rendered website
+_site/*

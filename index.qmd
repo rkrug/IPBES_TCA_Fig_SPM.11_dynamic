@@ -1,0 +1,8 @@
+---
+title: "IPBES TCA Figure SPM.11 Dynamic"
+---
+
+# Two maps using two packages
+
+- [leaflet map](map_leaflet.html)
+- [mapview map](map_mapview.html)
